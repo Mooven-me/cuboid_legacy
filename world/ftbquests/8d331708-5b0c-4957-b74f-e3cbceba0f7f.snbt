@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "8d3317085b0c4957b74fe3cbceba0f7f"
+	name: "Mooven_#8d331708"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
